@@ -16,7 +16,7 @@ If you want to use the nix development environment:
 4. Run `poetry install` to install project dependencies
 5. Run `poetry shell` to enter in the python virtual environment
 
-If you want to use the only the poetry development environment:
+If you want to use only the poetry development environment:
 
 1. Run `poetry install` to install project dependencies
 2. Run `poetry shell` to enter in the python virtual environment
